@@ -29,7 +29,7 @@
 
 ###
 
-<img align="right" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
+<img align="right" height="220 style="border-radius: 30px;" src="https://s11.gifyu.com/images/SgLzb.gif"  />
 
 ###
 <br clear="left">
