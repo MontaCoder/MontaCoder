@@ -29,6 +29,14 @@
 
 ###
 
+<h3 align="left">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h3>
+
+###
+
+<img align="left" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -40,14 +48,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
-
-###
-
-<h3 align="left">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h3>
 
 ###
 
