@@ -127,6 +127,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MontaCoder/MontaCoder/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/MontaCoder/MontaCoder/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 
 ###
