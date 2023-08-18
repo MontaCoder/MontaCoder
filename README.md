@@ -127,6 +127,7 @@
 
 ###
 
-![snake gif](https://github.com/MontaCoder/MontaCoder/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MontaCoder/MontaCoder/output/github-contribution-grid-snake.svg" />
+
 
 ###
