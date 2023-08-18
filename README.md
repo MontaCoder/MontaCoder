@@ -29,10 +29,10 @@
 
 ###
 
-<img align="left" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
+<img align="right" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
 
 ###
-<br clear="right">
+<br clear="left">
 <h4 align="center">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h4>
 
 ###
