@@ -32,7 +32,7 @@
 <img align="center" height="220"  src="https://s11.gifyu.com/images/SgLzb.gif"  />
 
 ###
-<br clear="left">
+<br clear="right">
 <h3 align="left">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h4>
 
 ###
