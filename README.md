@@ -29,11 +29,25 @@
 
 ###
 
-<img align="center" height="220"  src="https://s11.gifyu.com/images/SgLzb.gif"  />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
 
 ###
-<br clear="right">
-<h3 align="left">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h4>
+
+<img align="left" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
+
+###
+
+<h3 align="left">I'm Montassar from Tunisia<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently learning Something special<br>- ⚡ In my free time Coding...</h3>
 
 ###
 
@@ -110,5 +124,9 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MontaCoder&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MontaCoder/MontaCoder/output/snake.svg" alt="Snake animation" />
 
 ###
