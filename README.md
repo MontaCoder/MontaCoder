@@ -27,7 +27,6 @@
 ###
 
 <img align="left" height="200" src="https://s11.gifyu.com/images/SgLzb.gif"  />
-<img align="left" height="250" src="https://s11.gifyu.com/images/SgLzb.gif"  />
 
 ###
 
