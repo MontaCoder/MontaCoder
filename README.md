@@ -129,6 +129,3 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=MontaCoder&icon=0&color=12)]
-
