@@ -23,55 +23,77 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 
 ### Core Competencies
 - **Agent Architectures**: ReAct, Plan-and-Execute, Reflection, Tree of Thoughts, Multi-agent Systems, Autonomous Agents
-- **LLM Integration**: OpenAI GPT-4/o1, Claude 3.5 Sonnet/Opus, Llama 3.1/3.2, Mistral Large, Gemini Pro, Custom fine-tuning & RLHF
-- **RAG Systems**: Advanced retrieval, vector databases, hybrid search, semantic caching, re-ranking, query optimization
-- **Agent Frameworks**: LangChain, LangGraph, LlamaIndex, AutoGPT, CrewAI, AutoGen, Semantic Kernel, Haystack
-- **Tool Integration**: Function calling, API orchestration, external tool usage, browser automation, code execution
-- **Evaluation**: Agent benchmarking, LLM evaluation, A/B testing, human-in-the-loop systems, observability
+- **LLM Integration**: OpenAI, Anthropic, Google, Meta, Mistral, xAI, DeepSeek, Qwen, GLM, Kimi, ERNIE, Yi - Custom fine-tuning & RLHF
+- **RAG Systems**: Advanced retrieval, vector databases, hybrid search, semantic caching, GraphRAG, Contextual retrieval, re-ranking
+- **Agent Frameworks**: LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, Semantic Kernel, Swarm, PydanticAI
+- **Tool Integration**: Function calling, MCP (Model Context Protocol), API orchestration, browser automation, code execution
+- **Evaluation**: Agent benchmarking, LLM evaluation, A/B testing, human-in-the-loop systems, real-time observability
 
 ### Agent Development Stack
 
-**🤖 LLM & AI Platforms**
+**🤖 Leading LLM Providers**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Meta_Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama"/>
-  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral"/>
-  <img src="https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere"/>
-  <img src="https://img.shields.io/badge/Together_AI-000000?style=for-the-badge" alt="Together AI"/>
+  <img src="https://img.shields.io/badge/Anthropic-181818?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI"/>
+  <img src="https://img.shields.io/badge/Mistral_AI-FF7000?style=for-the-badge" alt="Mistral AI"/>
+  <img src="https://img.shields.io/badge/xAI-000000?style=for-the-badge&logo=x&logoColor=white" alt="xAI"/>
+  <img src="https://img.shields.io/badge/Meta-000000?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Alibaba_Qwen-FF6A00?style=for-the-badge" alt="Alibaba Qwen"/>
+  <img src="https://img.shields.io/badge/Zhipu_AI_(GLM)-4A90E2?style=for-the-badge" alt="Zhipu AI GLM"/>
+  <img src="https://img.shields.io/badge/Moonshot_AI_(Kimi)-8B5CF6?style=for-the-badge" alt="Moonshot AI"/>
+  <img src="https://img.shields.io/badge/Baidu_(ERNIE)-2932E1?style=for-the-badge" alt="Baidu ERNIE"/>
+  <img src="https://img.shields.io/badge/Perplexity-000000?style=for-the-badge" alt="Perplexity"/>
 </p>
 
-**🔗 Agent Frameworks & Orchestration**
+**🔗 Top AI Agent Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/LangGraph-2C5F2D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=for-the-badge" alt="LlamaIndex"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
-  <img src="https://img.shields.io/badge/Haystack-1D1E3C?style=for-the-badge" alt="Haystack"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/Semantic_Kernel-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Semantic Kernel"/>
+  <img src="https://img.shields.io/badge/Swarm-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Swarm"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-3B82F6?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge" alt="PydanticAI"/>
+  <img src="https://img.shields.io/badge/AgentFlow-000000?style=for-the-badge" alt="AgentFlow"/>
 </p>
 
-**🧠 ML/DL Frameworks**
+**🧠 ML/DL & Training Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX"/>
+  <img src="https://img.shields.io/badge/vLLM-00ADD8?style=for-the-badge" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/Unsloth-FF6B6B?style=for-the-badge" alt="Unsloth"/>
+  <img src="https://img.shields.io/badge/Axolotl-8B5CF6?style=for-the-badge" alt="Axolotl"/>
+  <img src="https://img.shields.io/badge/TRL-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="TRL"/>
+  <img src="https://img.shields.io/badge/PEFT-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="PEFT"/>
 </p>
 
-**📚 Vector Databases & Embeddings**
+**📚 Best Vector Databases**
 <p align="left">
   <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge" alt="Weaviate"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/Qdrant-24386C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Weaviate-00C853?style=for-the-badge" alt="Weaviate"/>
   <img src="https://img.shields.io/badge/Milvus-00A1E0?style=for-the-badge" alt="Milvus"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Vespa-FFC107?style=for-the-badge" alt="Vespa"/>
+</p>
+
+**🤖 AI-Powered Development Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Windsurf-00A8E8?style=for-the-badge" alt="Windsurf"/>
+  <img src="https://img.shields.io/badge/Claude_Dev-181818?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Dev"/>
+  <img src="https://img.shields.io/badge/Continue.dev-8B5CF6?style=for-the-badge" alt="Continue.dev"/>
+  <img src="https://img.shields.io/badge/Supermaven-FF6B35?style=for-the-badge" alt="Supermaven"/>
+  <img src="https://img.shields.io/badge/v0.dev-000000?style=for-the-badge" alt="v0.dev"/>
+  <img src="https://img.shields.io/badge/bolt.new-7C3AED?style=for-the-badge" alt="bolt.new"/>
 </p>
 
 **🛠️ Primary Languages**
@@ -85,21 +107,23 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 
 **⚙️ Backend & API Development**
 <p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" width="60" height="40"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" width="60" height="40"/>
+  <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat&logo=trpc&logoColor=white" alt="tRPC" width="60" height="40"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" alt="GraphQL" width="60" height="40"/>
 </p>
 
-**☁️ Cloud & DevOps**
+**☁️ Cloud & Infrastructure**
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Modal-000000?style=flat&logo=modal&logoColor=white" alt="Modal" width="60" height="40"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" width="60" height="40"/>
 </p>
 
 **🗄️ Databases & Data Processing**
@@ -107,35 +131,60 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase" width="60" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="Spark" width="60" height="40"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" alt="DuckDB" width="60" height="40"/>
 </p>
 
-**📊 Observability & Monitoring**
+**📊 Top AI Observability Platforms**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge" alt="LangSmith"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
   <img src="https://img.shields.io/badge/LangFuse-FF6B35?style=for-the-badge" alt="LangFuse"/>
+  <img src="https://img.shields.io/badge/Arize-FF6B6B?style=for-the-badge" alt="Arize"/>
+  <img src="https://img.shields.io/badge/Braintrust-3B82F6?style=for-the-badge" alt="Braintrust"/>
+  <img src="https://img.shields.io/badge/Helicone-8B5CF6?style=for-the-badge" alt="Helicone"/>
   <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/WhyLabs-000000?style=for-the-badge" alt="WhyLabs"/>
+</p>
+
+**🔍 Leading RAG & LLM Evaluation Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/RAGAS-FF6B35?style=for-the-badge" alt="RAGAS"/>
+  <img src="https://img.shields.io/badge/DeepEval-8B5CF6?style=for-the-badge" alt="DeepEval"/>
+  <img src="https://img.shields.io/badge/TruLens-06B6D4?style=for-the-badge" alt="TruLens"/>
+  <img src="https://img.shields.io/badge/Patronus_AI-000000?style=for-the-badge" alt="Patronus AI"/>
+  <img src="https://img.shields.io/badge/PromptFoo-F59E0B?style=for-the-badge" alt="PromptFoo"/>
+  <img src="https://img.shields.io/badge/Galileo-4F46E5?style=for-the-badge" alt="Galileo"/>
+  <img src="https://img.shields.io/badge/Evidently-000000?style=for-the-badge" alt="Evidently"/>
+  <img src="https://img.shields.io/badge/RAGChecker-FF6B35?style=for-the-badge" alt="RAGChecker"/>
+</p>
+
+**📈 Infrastructure Monitoring & APM**
+<p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=black" alt="New Relic"/>
 </p>
 
-**🔧 Development Tools**
+**🔧 Development & CLI Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Bruno-FF6B35?style=for-the-badge" alt="Bruno"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge" alt="uv"/>
 </p>
 
 **🧪 Testing & Quality**
 <p align="left">
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
 </p>
 
 ---
@@ -180,7 +229,7 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 *(Add your actual projects here - examples below)*
 
 ### 🎯 Multi-Agent Research Assistant
-Autonomous research agent system using GPT-4 with LangGraph for complex research tasks, document analysis, and report generation.
+Autonomous research agent system using GPT-4o with LangGraph for complex research tasks, document analysis, and report generation.
 
 ### 🔍 RAG-Powered Knowledge System
 Production-grade RAG system with hybrid search, re-ranking, and query optimization for enterprise knowledge retrieval.
