@@ -23,7 +23,7 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 
 ### Core Competencies
 - **Agent Architectures**: ReAct, Plan-and-Execute, Reflection, Tree of Thoughts, Multi-agent Systems, Autonomous Agents
-- **LLM Integration**: OpenAI, Anthropic, Google, Meta, Mistral, xAI, DeepSeek, Qwen, GLM, Kimi, ERNIE, Yi - Custom fine-tuning & RLHF
+- **LLM Integration**: OpenAI, Anthropic, Google, Meta, Mistral, xAI, DeepSeek, Qwen, GLM, Kimi, ERNIE, LongCat AI - Custom fine-tuning & RLHF
 - **RAG Systems**: Advanced retrieval, vector databases, hybrid search, semantic caching, GraphRAG, Contextual retrieval, re-ranking
 - **Agent Frameworks**: LangChain, LangGraph, LlamaIndex, CrewAI, AutoGen, Semantic Kernel, Swarm, PydanticAI
 - **Tool Integration**: Function calling, MCP (Model Context Protocol), API orchestration, browser automation, code execution
