@@ -194,7 +194,7 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 <div align="center">
   <!-- Updated & Improved Streak Card -->
   <img 
-    src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCoder&theme=gruvbox&hide_border=true&border_radius=5&exclude_days=Sun%2CSat" 
+    src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCoder&theme=gruvbox&hide_border=true&border_radius=5&exclude_days=Sat" 
     height="220" 
     alt="streak graph" 
   />
