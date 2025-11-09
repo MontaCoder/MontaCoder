@@ -192,13 +192,29 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCode&locale=en&mode=daily&theme=gruvbox&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MontaCoder&show_icons=true&theme=gruvbox&hide_border=true&border_radius=5" height="220" alt="stats graph" />
+  <!-- Updated & Improved Streak Card -->
+  <img 
+    src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCoder&theme=gruvbox&hide_border=true&border_radius=5&exclude_days=Sun%2CSat" 
+    height="220" 
+    alt="streak graph" 
+  />
+  
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MontaCoder&show_icons=true&theme=gruvbox&hide_border=true&border_radius=5" 
+    height="220" 
+    alt="stats graph" 
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontaCoder&layout=compact&theme=gruvbox&hide_border=true&border_radius=5" alt="languages graph" />
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MontaCoder&layout=compact&theme=gruvbox&hide_border=true&border_radius=5" 
+    alt="languages graph" 
+  />
 </div>
+
 
 ---
 
