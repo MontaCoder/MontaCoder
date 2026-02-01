@@ -4,7 +4,7 @@
 
 </div>
 
-<h1 align="center">🤖 AI Agent Software Engineer </h1>
+<h1 align="center">🤖 AI Agent Software Engineer</h1>
 
 <h3 align="center">Building Intelligent Autonomous Systems | LLM Integration Specialist</h3>
 
