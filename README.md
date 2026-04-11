@@ -92,7 +92,7 @@ I'm **Montassar Hajri**, an AI Agent Software Engineer from Tunisia, specializin
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCoder&theme=gruvbox&hide_border=true&border_radius=5&exclude_days=Sat" height="220" alt="streak graph" />
+<img src="https://github-readme-streak-stats-blush-psi-89.vercel.app?user=MontaCoder&theme=gruvbox&hide_border=true&border_radius=5" height="220" alt="streak graph" />
 
 ---
 
