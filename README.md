@@ -128,5 +128,5 @@ Multi-agent orchestration system enabling specialized agents to collaborate on c
 ---
 
 <div align="center">
-  <i>💬 Open to collaborating on AI agent projects and LLM applications</i>
+  <i>💬 Open to collaborating on AI agent projects and LLM applications </i>
 </div>
